@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zunbe</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="place_details">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Place Id: %2$s</i>
+        <br/>
+        Address: %3$s
+        <br/>
+        Phone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+    <string name="info_add_loc">Please add locations!</string>
+    
+    <string name="yelp_client_id">yUHozMWxG-4_1XWCW5SRng</string>
+    <string name="yelp_client_secret">NLraJtQkkBFAuC32kPNltQ5dy4wLMR6K8xL9KGNUWtapAcwNDlKsyvWBjenu9MXf</string>
+    <string name="yelp_token">XVUIqnbv-tWSPBFJH_LETxiN_SsR8DMBvq9ttCAzcW1SK1cIAd6iVvOejMAxD1K6DM27N7oegr9pg3Krj6iVLUe4knEkPLDr2dLMinXAZZPtjsD2oom0SR1PSCMQWXYx</string>
+</resources>

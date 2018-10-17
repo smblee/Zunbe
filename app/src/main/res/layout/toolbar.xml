@@ -1,0 +1,21 @@
+<android.support.v7.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:elevation="4dp"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="@style/ToolbarTheme"
+    android:titleTextColor="@color/white"
+    android:subtitleTextColor="@color/white"
+    app:popupTheme="@style/AppTheme"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toolbar Title"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"
+        android:id="@+id/toolbar_title" />
+</android.support.v7.widget.Toolbar>

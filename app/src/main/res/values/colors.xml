@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--   your app branding color for the app bar -->
+    <color name="colorPrimary">#7addf6</color>
+    <!--   darker variant for the status bar and contextual app bars -->
+    <color name="colorPrimaryDark">#81d4fa</color>
+    <!--   theme UI controls like checkboxes and text fields -->
+    <color name="colorAccent">#aede3f</color>
+
+    <color name="mapLine">#616161</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+
+</resources>
